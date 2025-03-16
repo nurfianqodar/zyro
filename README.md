@@ -7,10 +7,17 @@ Zyro is a minimal, high-performance HTTP framework written in Zig. It is designe
 
 ## ✨ Features
 ✅ **Lightweight & Fast** – Optimized for performance with minimal overhead.
+
+✅ **Zero Dependency** – Just improve zig standard library.
+
 ✅ **Zig-Powered** – Fully written in Zig, leveraging its safety and performance benefits.
+
 ✅ **Routing Support** – Easily define routes for handling HTTP requests.
+
 ✅ **Middleware Support** – Extend functionality with custom middleware.
+
 ✅ **Streaming & Chunked Responses** – Efficiently handle large payloads.
+
 ✅ **Asynchronous Handling** – High concurrency support without external dependencies.
 
 ---
