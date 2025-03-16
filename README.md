@@ -1,5 +1,5 @@
 # Zyro
-
+![Zyro Logo](logo.png)
 ## 🚀 Simple & Lightweight Zig HTTP Framework
 Zyro is a minimal, high-performance HTTP framework written in Zig. It is designed to be lightweight, fast, and easy to use, making it an excellent choice for building web applications and APIs.
 
